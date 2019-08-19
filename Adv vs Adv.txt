@@ -1,0 +1,48 @@
+['latéralement', 'littéralement']|['a', 'i']|['lateʁalmɑ̃', 'liteʁalmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'latéralement': 'derived: lateral.s ', 'littéralement': 'near_antonym:   derived: literal.a'}
+['impassiblement', 'impossiblement']|['a', 'ɔ']|['ɛ̃pasibləmɑ̃', 'ɛ̃pɔsibləmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'impassiblement': 'derived: impassive.s ', 'impossiblement': 'near_antonym:   derived: impossible.a'}
+['bravement', 'gravement']|['b', 'g']|['bʁavmɑ̃', 'gʁavmɑ̃']|['Adverbe', 'Adverbe']|['2', '1']|['', '']|{'bravement': 'derived: valiant.s ', 'gravement': 'derived: dangerous.s'}
+['brièvement', 'grièvement']|['b', 'g']|['bʁijɛvmɑ̃', 'gʁijɛvmɑ̃']|['Adverbe', 'Adverbe']|['2', '2']|['', '']|{'brièvement': 'derived: telegraphic.s ', 'grièvement': 'derived: dangerous.s'}
+['bêtement', 'nettement']|['b', 'n']|['bɛtmɑ̃', 'nɛtmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'bêtement': 'derived: asinine.s ', 'nettement': 'derived: significant.a'}
+['beau', 'tôt']|['b', 't']|['bo', 'to']|['Adverbe', 'Adverbe']|['1', '3']|['in-law.n', 'early.s']|{'beau': 'hypernym: relative.n ', 'tôt': 'similar_to: future.a'}
+['libéralement', 'littéralement']|['b', 't']|['libeʁalmɑ̃', 'liteʁalmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'libéralement': 'derived: free.s ', 'littéralement': 'near_antonym:   derived: literal.a'}
+['durement', 'purement']|['d', 'p']|['dyʁmɑ̃', 'pyʁmɑ̃']|['Adverbe', 'Adverbe']|['3', '1']|['', '']|{'durement': 'derived: uncompromising.a ', 'purement': 'derived: pure.s'}
+['durement', 'sûrement']|['d', 's']|['dyʁmɑ̃', 'syʁmɑ̃']|['Adverbe', 'Adverbe']|['3', '1']|['', '']|{'durement': 'derived: uncompromising.a ', 'sûrement': 'derived: certain.a usage_domain: colloquialism.n'}
+['indolemment', 'insolemment']|['d', 's']|['ɛ̃dɔlamɑ̃', 'ɛ̃sɔlamɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'indolemment': 'derived: indulgent.s ', 'insolemment': 'derived: blatant.s'}
+['décemment', 'récemment']|['d', 'ʁ']|['desamɑ̃', 'ʁesamɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'décemment': 'near_antonym:   derived: decent.s  ]', 'récemment': ''}
+['spécialement', 'spatialement']|['e', 'a']|['spesjalmɑ̃', 'spasjalmɑ̃']|['Adverbe', 'Adverbe']|['2', '2']|['', '']|{'spécialement': 'derived: special.s ', 'spatialement': 'derived: spatial.a'}
+['frais', 'près']|['f', 'p']|['fʁɛ', 'pʁɛ']|['Adverbe', 'Adverbe']|['1', '3']|['charge.n', 'near.s']|{'frais': 'hypernym: cost.n eng_derivative: charge.v ', 'près': 'similar_to: left.a'}
+['faux', 'tôt']|['f', 't']|['fo', 'to']|['Adverbe', 'Adverbe']|['1', '3']|['hypocrite.n', 'early.s']|{'faux': 'hypernym: deceiver.n eng_derivative: bogus.s ', 'tôt': 'similar_to: future.a'}
+['gros', 'trop']|['g', 't']|['gʁo', 'tʁo']|['Adverbe', 'Adverbe']|['3', '3']|['midst.n', '']|{'gros': 'hypernym: inside.n  ]', 'trop': ''}
+['guère', 'ter']|['g', 't']|['gɛʁ', 'tɛʁ']|['Adverbe', 'Adverbe']|['3', '2']|['', '']|{'guère': '', 'ter': ''}
+['consciemment', 'constamment']|['j', 't']|['kɔ̃sjamɑ̃', 'kɔ̃stamɑ̃']|['Adverbe', 'Adverbe']|['2', '2']|['', '']|{'consciemment': 'near_antonym:   derived: conscious.a ', 'constamment': 'derived: uninterrupted.s'}
+['curieusement', 'furieusement']|['k', 'f']|['kyʁjøzmɑ̃', 'fyʁjøzmɑ̃']|['Adverbe', 'Adverbe']|['2', '1']|['', '']|{'curieusement': 'near_antonym:   derived: interesting.a ', 'furieusement': 'derived: cranky.s'}
+['chroniquement', 'ironiquement']|['k', 'i']|['kʁɔnikmɑ̃', 'iʁɔnikmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'chroniquement': '', 'ironiquement': ''}
+['discrètement', 'distraitement']|['k', 't']|['diskʁɛtmɑ̃', 'distʁɛtmɑ̃']|['Adverbe', 'Adverbe']|['2', '2']|['', '']|{'discrètement': 'derived: fearful.s ', 'distraitement': 'derived: absent.s'}
+['quand', 'tant']|['k', 't']|['kɑ̃', 'tɑ̃']|['Adverbe', 'Adverbe']|['1', '3']|['', '']|{'quand': 'derived: equal.a]', 'tant': ''}
+['lascivement', 'massivement']|['l', 'm']|['lasivmɑ̃', 'masivmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'lascivement': 'derived: lubricious.s ', 'massivement': 'derived: massive.s'}
+['illégalement', 'inégalement']|['l', 'n']|['ilegalmɑ̃', 'inegalmɑ̃']|['Adverbe', 'Adverbe']|['2', '1']|['', '']|{'illégalement': 'derived: deceitful.s ', 'inégalement': 'near_antonym:   derived: mismatched.s'}
+['lascivement', 'passivement']|['l', 'p']|['lasivmɑ̃', 'pasivmɑ̃']|['Adverbe', 'Adverbe']|['1', '3']|['', '']|{'lascivement': 'derived: lubricious.s ', 'passivement': 'near_antonym:   derived: passive.a'}
+['lisiblement', 'risiblement']|['l', 'ʁ']|['lizibləmɑ̃', 'ʁizibləmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'lisiblement': 'near_antonym:   derived: clear.s.15 ', 'risiblement': 'derived: curious.s'}
+['loyalement', 'royalement']|['l', 'ʁ']|['lwajalmɑ̃', 'ʁwajalmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'loyalement': 'near_antonym:   derived: loyal.a ', 'royalement': 'derived: imperial.s'}
+['massivement', 'passivement']|['m', 'p']|['masivmɑ̃', 'pasivmɑ̃']|['Adverbe', 'Adverbe']|['2', '3']|['', '']|{'massivement': 'derived: massive.s ', 'passivement': 'near_antonym:   derived: passive.a'}
+['mensuellement', 'sensuellement']|['m', 's']|['mɑ̃sɥɛlmɑ̃', 'sɑ̃sɥɛlmɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'mensuellement': 'derived: monthly.s ', 'sensuellement': 'derived: sensual.s'}
+['aussi', 'ici']|['o', 'i']|['osi', 'isi']|['Adverbe', 'Adverbe']|['3', '1']|['', 'hera.n']|{'aussi': 'near_antonym:   derived: even.s ', 'ici': 'instance_hypernym: greek_deity.n'}
+['haut', 'où']|['o', 'u']|['o', 'u']|['Adverbe', 'Adverbe']|['1', '2']|['high.n', '']|{'haut': 'hypernym: air_mass.n holo_part: anticyclone.n  ]', 'où': ''}
+['purement', 'sûrement']|['p', 's']|['pyʁmɑ̃', 'syʁmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'purement': 'derived: pure.s ', 'sûrement': 'derived: certain.a usage_domain: colloquialism.n'}
+['compulsivement', 'convulsivement']|['p', 'v']|['kɔ̃pylsivmɑ̃', 'kɔ̃vylsivmɑ̃']|['Adverbe', 'Adverbe']|['2', '2']|['', '']|{'compulsivement': 'derived: compulsory.s ', 'convulsivement': 'derived: convulsive.s'}
+['censément', 'densément']|['s', 'd']|['sɑ̃semɑ̃', 'dɑ̃semɑ̃']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'censément': 'near_antonym:   derived: credible.a ', 'densément': 'near_antonym:   derived: thick.s'}
+['faussement', 'follement']|['s', 'l']|['fɔsmɑ̃', 'fɔlmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'faussement': 'derived: false.s ', 'follement': 'derived: balmy.s'}
+['sainement', 'vainement']|['s', 'v']|['sɛnmɑ̃', 'vɛnmɑ̃']|['Adverbe', 'Adverbe']|['2', '1']|['', '']|{'sainement': 'near_antonym:   derived: hygienic.s ', 'vainement': 'near_antonym:   derived: unnecessary.a'}
+['tant', 'tôt']|['ɑ̃', 'o']|['tɑ̃', 'to']|['Adverbe', 'Adverbe']|['3', '3']|['', 'early.s']|{'tant': 'derived: equal.a ', 'tôt': 'similar_to: future.a'}
+['quand', 'que']|['ɑ̃', 'ə']|['kɑ̃', 'kə']|['Adverbe', 'Adverbe']|['1', '2']|['', '']|{'quand': '', 'que': ''}
+['antérieurement', 'intérieurement']|['ɑ̃', 'ɛ̃']|['ɑ̃teʁjœʁmɑ̃', 'ɛ̃teʁjœʁmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'antérieurement': 'near_antonym:   derived: internal.a]', 'intérieurement': ''}
+['lors', 'lourd']|['ɔ', 'u']|['lɔʁ', 'luʁ']|['Adverbe', 'Adverbe']|['1', '2']|['', 'heavy.n']|{'lors': 'hypernym: actor.n]', 'lourd': ''}
+['ainsi', 'ici']|['ɛ̃', 'i']|['ɛ̃si', 'isi']|['Adverbe', 'Adverbe']|['2', '1']|['', 'hera.n']|{'ainsi': 'usage_domain: intensifier.n ', 'ici': 'instance_hypernym: greek_deity.n'}
+['ainsi', 'aussi']|['ɛ̃', 'o']|['ɛ̃si', 'osi']|['Adverbe', 'Adverbe']|['2', '3']|['', '']|{'ainsi': 'usage_domain: intensifier.n ', 'aussi': 'near_antonym:   derived: even.s'}
+['rigoureusement', 'vigoureusement']|['ʁ', 'v']|['ʁiguʁøzmɑ̃', 'viguʁøzmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'rigoureusement': 'derived: rigorous.s ', 'vigoureusement': 'derived: vigorous.s'}
+['cher', 'guère']|['ʃ', 'g']|['ʃɛʁ', 'gɛʁ']|['Adverbe', 'Adverbe']|['2', '3']|['precious.s', '']|{'cher': 'similar_to: valuable.a eng_derivative: costliness.n  ]', 'guère': ''}
+['chaleureusement', 'malheureusement']|['ʃ', 'm']|['ʃalœʁøzmɑ̃', 'malœʁøzmɑ̃']|['Adverbe', 'Adverbe']|['2', '2']|['', '']|{'chaleureusement': 'derived: hearty.s ', 'malheureusement': 'near_antonym:   derived: regrettable.s'}
+['chaud', 'tôt']|['ʃ', 't']|['ʃo', 'to']|['Adverbe', 'Adverbe']|['2', '3']|['hot.s', 'early.s']|{'chaud': 'similar_to: warm.a ', 'tôt': 'similar_to: future.a'}
+['cher', 'ter']|['ʃ', 't']|['ʃɛʁ', 'tɛʁ']|['Adverbe', 'Adverbe']|['2', '2']|['precious.s', '']|{'cher': 'similar_to: valuable.a eng_derivative: costliness.n  ]', 'ter': ''}
+['chastement', 'vastement']|['ʃ', 'v']|['ʃastəmɑ̃', 'vastəmɑ̃']|['Adverbe', 'Adverbe']|['1', '3']|['', '']|{'chastement': 'derived: pure.s ', 'vastement': 'derived: huge.s'}
+['chichement', 'richement']|['ʃ', 'ʁ']|['ʃiʃmɑ̃', 'ʁiʃmɑ̃']|['Adverbe', 'Adverbe']|['1', '1']|['', '']|{'chichement': 'derived: retiring.s ', 'richement': 'derived: affluent.s'}
